@@ -1,1 +1,1 @@
-# projectX
+# projectX: This repository is just for testing purposes.
